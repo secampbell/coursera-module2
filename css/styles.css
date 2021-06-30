@@ -25,6 +25,11 @@ h1 {
   font-family: Trebuchet MS;
 }
 
+.box{
+    width: 100%;
+    overflow: none;
+  }
+
 div#container {
   background-color: #00FFFF;
 }
